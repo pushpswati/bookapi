@@ -9,3 +9,9 @@ pip install djangorestframework
 ```
 python manage.py runserver 0.0.0.0:8000
 ```
+
+# API TEST 
+open jupyter notebook
+```
+https://github.com/pushpswati/bookapi/blob/main/notebook/api_testing_py_client.ipynb
+```
